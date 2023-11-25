@@ -1,0 +1,21 @@
+{
+  "name": "pixelate-webgl",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "-": "^0.0.1",
+    "i": "^0.3.7",
+    "npm": "^10.2.4",
+    "vite": "^4.5.0",
+    "vite-plugin-glsl": "^1.2.0"
+  },
+  "dependencies": {
+    "three": "^0.158.0"
+  }
+}
